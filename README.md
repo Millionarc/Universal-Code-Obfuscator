@@ -23,5 +23,5 @@ Demo -  https://blank-app-o5oa20hb3b.streamlit.app/
 2. Run the app
 
    ```
-   $ streamlit run main.py
+   $ streamlit run streamlit_app.py
    ```
